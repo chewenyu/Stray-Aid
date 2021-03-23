@@ -19,4 +19,4 @@ The website consists of two users, with functions including:
   * View animal adoption application form
   * Message other users
 
-##Screenshots
+#Screenshots
