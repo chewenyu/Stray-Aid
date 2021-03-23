@@ -1,6 +1,7 @@
 # Stray-Aid
 This is a Final Year Project completed by me and my 2 other teammates, Dav and Shawn. Huge thanks to them for constantly guiding and helping me with my parts.
 
+## Overview
 Stray Aid is a animal adoption website that mimics a social networking site for shelters and animal lovers/volunteers to engage with each other with the purpose of providing a shelter to the strays. 
 
 The website consists of two users, with functions including:
@@ -47,3 +48,12 @@ SHELTERS (admin)
 
 4. View shelters profile
 ![](screenshots/shelterprofile.jpg)
+
+4.1 View and Edit profile
+![](screenshots/profile.jpg)
+
+5. Message users
+![](screenshots/msg.jpg)
+
+6. View Animal Adoption Application Form
+![](screenshots/applicationform.jpg)
