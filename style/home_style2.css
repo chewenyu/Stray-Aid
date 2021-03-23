@@ -1,0 +1,145 @@
+body
+{
+	overflow-x: hidden;
+	background-color:#D5F5E3;
+}
+.navbar-default
+{
+	background-color:#148F77;
+}
+.navbar-header
+{
+	position:relative;
+	top:-5px;
+}
+#upload_image_button
+{
+	position: absolute;
+	top: 84%;
+	right: 10%;
+	min-width: 150px;
+	max-width: 100px;
+	transform: translate(-50%, -50%);
+	background-color:#48C9B0;
+	border-color:#48C9B0;
+	color:white;
+}
+
+table , tr
+{
+	background-color:#A2D9CE;
+	color: black;
+
+}
+
+label
+{
+	padding: 7px;
+	display: table;
+	color: red;
+}
+input[type="file"]
+{
+	display: none;
+}
+#content
+{
+	width: 70%;
+}
+#btn-post
+{
+	min-width: 25%;
+	max-width: 25%;
+	background-color:#48C9B0;
+	color:white;
+}
+#insert_post
+{
+	padding: 10px 30px;
+	position: relative;
+	top: -40px;
+	left:340px;
+	max-width: 60%;
+}
+#posts
+{
+	border:2px solid black;
+	padding: 40px 50px;
+}
+#posts-img
+{
+	padding-top: 5px;
+	padding-right:10px;
+	min-width: 102%;
+	max-width:50%;
+}
+#single_posts
+{
+	border:2px solid black;
+	padding: 40px 50px;
+}
+.pb-cmnt-container
+{
+	margin-top: 100px;
+}
+.pb-cmnt-textarea
+{
+	resize: none;
+	padding: 20px;
+	height: 110px;
+	width: 100%;
+	border:1px solid black;
+}
+#find_people
+{
+	border:2px solid black;
+	padding: 40px 50px;
+
+}
+#result_posts
+{
+	border:5px solid black;
+	padding: 40px 50px;
+}
+#locationbtn
+{
+	position: relative;
+	left:358px;	
+	background-color: #AEB6BF;
+	border: 1px solid black;
+}
+#locationbtn:hover
+{
+	background-color:#5D6D7E;
+}
+form.search_form input[type=text]
+{
+	padding:10px;
+	font-size: 17px;
+	border-radius: 2px;
+	border:1px solid black;
+	float: left;
+	width:80%;
+	background-color:#DFE1E4;
+}
+form.search_form button
+{
+	float: left;
+	width:20%;
+	padding: 10px;
+	font-size: 17px;
+	border:1px solid black;
+	border-left:none;
+	cursor: pointer;
+	background-color: #AEB6BF;
+}
+form.search_form button:hover
+{
+	background-color:#5D6D7E;
+}
+form.search_form::after
+{
+	content: "";
+	clear: both;
+	display: table;
+}
