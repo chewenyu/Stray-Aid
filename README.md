@@ -18,3 +18,5 @@ The website consists of two users, with functions including:
   * Search users by name / location
   * View animal adoption application form
   * Message other users
+
+##Screenshots
